@@ -112,7 +112,7 @@ pub contract CryptoPoops: NonFungibleToken {
 To deploy the code, We will be using the Flow Playground
 
 Once the contract is deployed, you can execute the Collectionc.cdc Transaction contract file provising the appropriate signer and filling the required values.
-Onece transaction file is executed , You can execute then run the Minting.cdc transaction cdc to mint the NFT via passing the required arguments. Finally , you can execute the ReadMetadata.cdc Script contract to get the data for the minted NFT.
+Onece transaction file is executed , You can execute then run the MintingTransaction.cdc transaction cdc to mint the NFT via passing the required arguments. Finally , you can execute the ReadMetadataScript.cdc  contract to get the data for the minted NFT.
 
 ## Authors
 CodeBlocker52(https://github.com/CodeBlocker52 )
