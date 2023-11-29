@@ -2,7 +2,7 @@
 # Flow-Beginner-Module-5
 
 
-This Repo is made for an Assessments for the eth-avax Intermediate project for Metacrafters. The purpose of this Repository is to showcase my knowledge and understanding of the smart contracts and especially, about creating my own Tokens,with mentioned requirements.
+This Repo is made for an Assessments for the Flow-Beginner project for Metacrafters. The purpose of this Repository is to showcase my knowledge and understanding of the smart contracts and especially, about creating my own Tokens,with mentioned requirements.
 
 Description
 This Repository consists of a contract named function.sol written in Cadence, a programming language used for developing smart contracts on the Flow blockchain. 
